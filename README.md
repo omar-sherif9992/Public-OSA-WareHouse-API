@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://osa-warehouse-api.herokuapp.com/">
-    <img src="./SVGs/warehouse-icon.png" alt="Logo" width="80" height="80">
+    <img src="warehouse-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">E-commerce API</h3>
